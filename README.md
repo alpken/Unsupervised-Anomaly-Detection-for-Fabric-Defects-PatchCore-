@@ -39,6 +39,4 @@ Unlike supervised approaches, PatchCore does **not require defective samples** d
 - NumPy, SciPy, scikit-learn  
 - Matplotlib, Seaborn  
 
----
 
-## 📂 Repository Structure
